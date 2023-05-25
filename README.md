@@ -1,6 +1,6 @@
 ## Правильный коннект к БД, почему, зачем и как.
  
-
+https://habr.com/ru/companies/sberbank/articles/736464/
 
 <br/><br/>
 ---
